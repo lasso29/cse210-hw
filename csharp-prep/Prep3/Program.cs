@@ -9,7 +9,6 @@ class Program
         // Console.Write("What's the magic number? ");
         // int magicNumber = int.Parse(Console.ReadLine());
         
-        
         // In Part 3, we generate a magic number randomly.
 
         Random randomGenerator = new Random();
